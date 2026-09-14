@@ -1,4 +1,5 @@
-#Abstract
+# Abstract
+
 Regression under i.i.d. noise is well understood, but this assumption rarely holds in practice.
 Measurement pipelines, numerical PDE solvers, and privacy constraints all induce noise that
 is correlated, heavy-tailed, or structured at the batch level. In the worst regimes, even the
