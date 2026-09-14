@@ -20,3 +20,6 @@ advantage holds only at low corruption and reverses once corruption is severe, w
 with what the non-B-robustness of the estimator predicts. Together, these results help pin down
 where it shines: WBM is robust to corruption that preserves the batch output distribution, and
 to heavy tailed noise in settings of moderate corruption.
+
+## Report
+[📄 PDF](./Master_Project_Robust_Regression-55.pdf)
